@@ -1,7 +1,3 @@
-uuu
-r
-r
-r
-r
-r
-r
+One
+Two
+Three
